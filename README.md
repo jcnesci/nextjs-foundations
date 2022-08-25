@@ -2,6 +2,7 @@
 
 https://nextjs.org/learn/foundations/about-nextjs
 
-## Notes
+## Progress
 
-TBD
+WIP: 
+- Aug. 25, 2022: https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props
