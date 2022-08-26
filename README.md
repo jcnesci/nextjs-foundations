@@ -4,5 +4,8 @@ https://nextjs.org/learn/foundations/about-nextjs
 
 ## Progress
 
-WIP: 
-- Aug. 25, 2022: https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props
+- Aug. 26, 2022: 
+  - https://nextjs.org/learn/foundations/from-javascript-to-react/
+    - DONE
+  - https://nextjs.org/learn/basics/create-nextjs-app
+    - WIP
